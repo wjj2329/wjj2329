@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm William 👋
 
-<!--
-**wjj2329/wjj2329** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Lead .NET Software Developer at HeroDevs
 
-Here are some ideas to get you started:
+## About Me
+- 🔭 Working on .NET security servicing and ecosystem maintenance
+- 🛠️ C#, .NET, Azure, GitHub Actions, Java, Python
+- 🎓 BS Computer Science, BYU
+- ⚽ Aston Villa supporter
+- 📍 Utah
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+- .NET Essentials+
+- SiteMapDotNet
+- Open-source .NET tooling
+
+## Tech Stack
+C# • .NET • ASP.NET Core • SQL • Azure • GitHub Actions • Java • Python
+
+## Links
+- LinkedIn: https://www.linkedin.com/in/williamjones2329
